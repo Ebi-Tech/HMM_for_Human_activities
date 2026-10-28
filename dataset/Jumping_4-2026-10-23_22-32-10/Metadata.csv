@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version
+3,SM-A055F,1792794730625,2026-10-23_22-32-10,Africa/Kigali,android,1.68,92f59526-1c97-40e9-83a7-e4f4d6ba1808,Annotation|TotalAcceleration|AccelerometerUncalibrated,|20|20,false,35
