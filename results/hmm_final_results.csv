@@ -1,0 +1,3 @@
+model,overall accuracy,sensitivity standing,sensitivity walking,sensitivity jumping,sensitivity still,specificity standing,specificity walking,specificity jumping,specificity still
+trained model (main),0.9416666666666667,0.7625,1.0,1.0,0.9878048780487805,0.9928571428571429,1.0,1.0,0.9030612244897959
+start model (no Baum-Welch),1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
